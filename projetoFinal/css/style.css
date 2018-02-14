@@ -1,0 +1,26 @@
+/* 
+Created on : 09/03/2017, 15:27:54
+Author     : mgs1002_00
+*/
+
+/* PAGINA DE LOGIN */
+#page_login{
+    background: url(../img/fundo.png) no-repeat;
+    background-size: 100%;       
+}
+
+fieldset{
+    width: 300px;
+    margin-left:500px; 
+    margin-top: 250px;
+}
+
+fieldset .btn{
+    float: right;
+}
+/* FIM PAGINA DE LOGIN */
+
+.divisao{
+    border:2px #666 solid;
+    min-height:290px; 
+}
